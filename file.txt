@@ -1,2 +1,1 @@
-Tap tin dau tien
-Them dong thu 2
+Them mot dong bang nhanh new-feature
